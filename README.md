@@ -2,5 +2,4 @@
 
 Different programs using C++
 The List of programs are as follows:
-1. Number Guessing Game
-2. 
+1. Number Guessing Game 
