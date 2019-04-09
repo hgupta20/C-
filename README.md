@@ -1,5 +1,3 @@
-# C++ Programs
+# Mind-Reader Guessing Game
 
-Different programs using C++
-The List of programs are as follows:
-1. Number Guessing Game 
+A program in C++ to play a mind-reader guessing game
