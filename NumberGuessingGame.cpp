@@ -8,9 +8,6 @@ using namespace std;
 
  /* ------------------------------------------------ 
   * Guess It Program. 
-  * Program 1- Due September 11
-  * Class: CS 141, Fall 2017. Tues 9am lab
-  * Teaching Assitants : Moumita Samanta, Vincent Pham 
   * System: Windows 10,Dev-C++
   * Author: Harsh Devprakash Gupta
   *
@@ -41,10 +38,8 @@ int main(int argc, char** argv) {
 	// --------------------------------------------------------------------------------------------------------------------------------------------
     // Displaying Identifying Information.
     
-	cout << "Program #1: Guess It" << endl;
+	
 	cout << "Author: Harsh Devprakash Gupta" << endl;
-	cout << "Lab: Tues 9am"<< endl;
-	cout << "Teaching Assitants : Moumita Samanta, Vincent Pham "<< endl;
 	cout << "Date: Sep 9, 2017" << endl;
 	cout << "System: C++ in Dev C++" << endl;
 	cout<< endl;
